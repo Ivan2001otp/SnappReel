@@ -1,4 +1,4 @@
-# short_film_app
+# Reel capture app like in Snapchat
 
 A new Flutter project.
 

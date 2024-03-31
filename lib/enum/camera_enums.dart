@@ -1,0 +1,4 @@
+enum CameraErrorType {
+  permission,
+  other,
+}

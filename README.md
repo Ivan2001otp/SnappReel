@@ -1,19 +1,12 @@
 # Reel capture app like in Snapchat
 
-A new Flutter project.
+Made with Flutter
 
-## Getting Started
+## What does it do :
+- Helps to capture a snap of 5s , 10s ,15s ,30s snaps..
+- The user need to press the left toggle button to change the duration.
+- The ui of snap button at the bottom center is similar to Snap chat.
+- After recording , we can instant playback the recorded video.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# SnapReel
-
-Screenshots and output results will be added soon.
+## Here is the video of it.
+[Click Here to Watch](https://www.linkedin.com/posts/immanuel-dsouza-b32505210_here-i-have-learnt-to-create-an-app-that-activity-7182774074346020864-8mBu?utm_source=share&utm_medium=member_desktop)
